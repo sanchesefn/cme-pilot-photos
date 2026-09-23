@@ -1,2 +1,2 @@
-# cme-pilot-photos
-Temporary public JPEG hosting for CM.Expert photosUrls ingest (dealer photos sync)
+# CME pilot photo host
+Public JPEGs for CM.Expert photosUrls ingest.
